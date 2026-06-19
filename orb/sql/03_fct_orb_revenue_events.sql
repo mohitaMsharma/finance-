@@ -1,4 +1,4 @@
--- Initial load: Orb revenue at event grain with business-line classification.
+-- Initial load:  grain with business-line classification.
 -- Location: us-central1
 
 CREATE OR REPLACE TABLE `nomadic-bison-363821.finance.fct_orb_revenue_events`
